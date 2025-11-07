@@ -76,3 +76,9 @@ fmt.Printf("%d",a);  //it will print (10)
 
 6. if we use (%f) for float it will print upto 6 decimal places.
 but if we use (%g) it will write upto needed or last non-zero character.
+
+-----------------------------------------------------------------------------------------------------------
+
+7. 
+var a complex128 = complex(6, 2)  //prints (6+2i)
+var b complex64 = complex(9, 2)   //prints (9+2i)

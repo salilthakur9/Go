@@ -52,3 +52,22 @@ func main(){
 	var b float64=3;
 	fmt.Printf("%g/%g=%f", a,b,a/b);
 }*/
+
+
+
+/*package main
+import "fmt"
+func main(){
+	str1:="Salil"
+	str2:="thakur"
+	str3:="Salil"
+	str4:="salil"
+
+	result1:= str1==str2;
+	result2:= str1==str3;
+	result3:= str1==str4;
+
+	fmt.Println(result1)
+	fmt.Println(result2)
+	fmt.Println(result3)
+}*/
