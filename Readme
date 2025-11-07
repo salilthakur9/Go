@@ -82,3 +82,10 @@ but if we use (%g) it will write upto needed or last non-zero character.
 7. 
 var a complex128 = complex(6, 2)  //prints (6+2i)
 var b complex64 = complex(9, 2)   //prints (9+2i)
+
+-----------------------------------------------------------------------------------------------------------
+
+8. 
+Geeks, geeks, _geeks23  // valid variable
+123Geeks, 23geeks      // invalid variable
+if we do not assign any value to a var it is (0).

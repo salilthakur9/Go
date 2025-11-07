@@ -84,3 +84,19 @@ func main(){
 	fmt.Printf("%s\n", str2);
 	fmt.Printf(str1+" "+str2);
 }*/
+
+
+
+/*package main
+import "fmt"
+func main(){
+	a:=100;
+	if a>99{
+		fmt.Println("A is greater than 99");
+	}else{
+		fmt.Println("A is less than 100");
+	}
+	fmt.Println("\nDone!!");
+}*/
+
+
