@@ -74,3 +74,5 @@ fmt.Printf("%d",a);  //it will print (10)
 
 -----------------------------------------------------------------------------------------------------------
 
+6. if we use (%f) for float it will print upto 6 decimal places.
+but if we use (%g) it will write upto needed or last non-zero character.
