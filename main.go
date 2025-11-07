@@ -71,3 +71,16 @@ func main(){
 	fmt.Println(result2)
 	fmt.Println(result3)
 }*/
+
+
+
+/*package main
+import "fmt"
+func main(){
+	var str1 string="Salil";
+	str2:="Thakur";
+
+	fmt.Printf("%s\n", str1);
+	fmt.Printf("%s\n", str2);
+	fmt.Printf(str1+" "+str2);
+}*/
