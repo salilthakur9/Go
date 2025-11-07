@@ -1,0 +1,76 @@
+1. Basic Code:
+
+package main
+import "fmt"
+
+func main() {
+
+ var name = "GeeksforGeeks"
+  
+}
+
+-----------------------------------------------------------------------------------------------------------
+
+2. 
+For Constants:
+true, false, iota, nil
+
+For Types:
+int, int8, int16, int32, int64, uint,
+uint8, uint16, uint32, uint64, uintptr,
+float32, float64, complex128, complex64,
+bool, byte, rune, string, error
+
+For Functions:
+make, len, cap, new, append, copy, close, 
+delete, complex, real, imag, panic, recover
+
+-----------------------------------------------------------------------------------------------------------
+
+3. There are total 25 keywords present in the Go language as follows: 
+break
+case
+chan
+const
+continue
+default
+defer
+else
+fallthrough
+for
+func
+go
+goto
+if
+import
+interface
+map
+package
+range
+return
+select
+struct
+switch
+type
+var
+
+-----------------------------------------------------------------------------------------------------------
+
+4. Data Types in Go
+Basic type: Numbers, strings, and booleans come under this category.
+Aggregate type: Array and structs come under this category.
+Reference type: Pointers, slices, maps, functions, and channels come under this category.
+Interface type
+
+-----------------------------------------------------------------------------------------------------------
+
+5. There is difference btw Println and Printf:
+if we wrote something like this:
+
+a=10;
+fmt.Println("%d", a);  //it will print (%d 10)
+fmt.Printf("%d",a);  //it will print (10)
+
+
+-----------------------------------------------------------------------------------------------------------
+
